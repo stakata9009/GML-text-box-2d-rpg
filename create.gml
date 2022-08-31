@@ -5,5 +5,5 @@ txt[0] = "First page of the dialog goes here."
 txt[1] = "Second page of the dialog goes here"
 txt[2] = "This is the third page of the dialog."
 txt[3] = "Page four of the dialog"
-current_page = 0
-character_count = 0
+current_page = 0;
+character_count = 0;
